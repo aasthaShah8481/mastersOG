@@ -1,0 +1,10 @@
+# Ignore everything in home directory
+*
+
+# Except this file
+!.gitignore
+
+# Only track the actual project
+!Desktop/
+!Desktop/MasterOfAll/
+!Desktop/MasterOfAll/**
